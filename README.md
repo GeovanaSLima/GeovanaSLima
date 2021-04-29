@@ -27,7 +27,7 @@ Nos últimos tempos, meu foco principal é desenvolver habilidades voltadas para
 
 ## Projetos:
 
-* **[Análise dos dados do Airbnb - Toronto](https://bit.ly/2XTOmf9)**: 
+* **[Análise dos dados do Airbnb - Toronto](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/An%C3%A1lise_dos_dados_Airbnb_Toronto.ipynb)**: 
 A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar *outliers* e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do *dataset* obtivemos *insights* importantes para alguém que tem a intenção de visitar a cidade. *([Curso Sigmoidal](https://sigmoidal.ai/))*
 
 ## Aprendizado:
@@ -39,7 +39,7 @@ Machine Learning course offered by Stanford University on Coursera (**Recorrente
 * **[Curso - Machine Learning with Python by IBM](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM)**:
 Machine Learning course offered by IBM on Coursera (**Recorrente**)
 
-* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Projeto Prático 1 - Fundamentos](https://bit.ly/2ZL5gxs)**:
+* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Projeto Prático 1 - Fundamentos](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/IGTI_Trabalho_pr%C3%A1tico_1.ipynb)**:
 Primeiro projeto na jornada de aprendizado das técnicas de *Machine Learning*
 
-* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Desafio 1 - Fundamentos](https://bit.ly/2EuNIxB)**: Primeiro desafio na jornada de aprendizado das técnicas de *Machine Learning*
+* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Desafio 1 - Fundamentos](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/IGTI_Desafio_1.ipynb)**: Primeiro desafio na jornada de aprendizado das técnicas de *Machine Learning*
