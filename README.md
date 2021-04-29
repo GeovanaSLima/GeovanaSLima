@@ -1,16 +1,45 @@
-### Hi there 👋
+# Hey, eu sou a Geovana Sousa! 👋
 
-<!--
-**GeovanaSLima/GeovanaSLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## É muito bom te receber aqui, espero que goste! 😉😉
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://i.imgur.com/XBPbfSs.png" >
+</p>
+
+<br />
+
+## Sobre Mim
+
+Sou estudante de Engenharia de Produção na Escola Superior de Engenharia e Gestão (ESEG) em São Paulo, onde trabalho em um projeto de pesquisa no Núcleo de Inteligência Artificial e Robótica, desenvolvendo uma aplicação de IA voltada para a área educacional. Além da parte acadêmica, também procuro utilizar essa fase profissional para desenvolver minhas capacidades de liderança e proatividade. Por esse motivo, entrei para a associação atlética da faculdade e lá me tornei uma dos membros do nosso quadro de diretoria, assumindo a responsabilidade pelo departamento financeiro.
+
+No momento, estou estagiando na área de Moeda Nacional do Banco Voiter, onde utilizo habilidades analíticas e pratico ferramentas de otimização de processos para melhorar cada vez mais o decorrer das operações de formalização de contratos.
+
+Tenho um técnico de Logística pela Etec da Zona Leste em São Paulo, onde cursei o curso integrado ao Ensino Médio. Durante esse tempo, trabalhei em muitas atividades extracurriculares, desde a prática de esportes até a organização de eventos esportivos. Além disso, durante os estudos na Etec, tive a oportunidade de desenvolver meu senso crítico a partir de debates, o espirito do trabalho em equipe que foi incentivado por diversos projetos e atividades em grupo, e a responsabilidade de assumir meus erros e suas consequências.
+
+Nos últimos tempos, meu foco principal é desenvolver habilidades voltadas para a área de Data Science e Inteligência Artificial.
+
+
+### **[Meu LinkedIn](www.linkedin.com/in/geovana-sousaL)**  :computer::books:
+
+<br />
+
+## Projetos:
+
+* **[Análise dos dados do Airbnb - Toronto](https://bit.ly/2XTOmf9)**: 
+A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar *outliers* e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do *dataset* obtivemos *insights* importantes para alguém que tem a intenção de visitar a cidade. *([Curso Sigmoidal](https://sigmoidal.ai/))*
+
+## Aprendizado:
+Projetos e cursos desenvolvidos para aprimoramento.
+
+* **[Curso - Machine Learning by Andrew Ng](https://github.com/GeovanaSLima/Machine_Learning_Stanford)**:
+Machine Learning course offered by Stanford University on Coursera (**Recorrente**)
+
+* **[Curso - Machine Learning with Python by IBM](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM)**:
+Machine Learning course offered by IBM on Coursera (**Recorrente**)
+
+* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Projeto Prático 1 - Fundamentos](https://bit.ly/2ZL5gxs)**:
+Primeiro projeto na jornada de aprendizado das técnicas de *Machine Learning*
+
+* **[*Bootcamp* IGTI: Analista de *Machine Learning* - Desafio 1 - Fundamentos](https://bit.ly/2EuNIxB)**: Primeiro desafio na jornada de aprendizado das técnicas de *Machine Learning*
