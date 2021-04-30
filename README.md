@@ -10,7 +10,7 @@
 
 <br />
 
-## Sobre Mim
+## Sobre Mim [<img align="left"  width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/geovana--sousa/)
 
 Sou estudante de Engenharia de Produção na Escola Superior de Engenharia e Gestão (ESEG) em São Paulo, onde trabalho em um projeto de pesquisa no Núcleo de Inteligência Artificial e Robótica, desenvolvendo uma aplicação de IA voltada para a área educacional. Além da parte acadêmica, também procuro utilizar essa fase profissional para desenvolver minhas capacidades de liderança e proatividade. Por esse motivo, entrei para a associação atlética da faculdade e lá me tornei uma dos membros do nosso quadro de diretoria, assumindo a responsabilidade pelo departamento financeiro.
 
@@ -19,9 +19,6 @@ No momento, estou estagiando na área de Moeda Nacional do Banco Voiter, onde ut
 Tenho um técnico de Logística pela Etec da Zona Leste em São Paulo, onde cursei o curso integrado ao Ensino Médio. Durante esse tempo, trabalhei em muitas atividades extracurriculares, desde a prática de esportes até a organização de eventos esportivos. Além disso, durante os estudos na Etec, tive a oportunidade de desenvolver meu senso crítico a partir de debates, o espirito do trabalho em equipe que foi incentivado por diversos projetos e atividades em grupo, e a responsabilidade de assumir meus erros e suas consequências.
 
 Nos últimos tempos, meu foco principal é desenvolver habilidades voltadas para a área de Data Science e Inteligência Artificial.
-
-
-### **[Meu LinkedIn](www.linkedin.com/in/geovana-sousaL)**  :computer::books:
 
 <br />
 
