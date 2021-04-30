@@ -10,7 +10,7 @@
 
 <br />
 
-##Sobre Mim [<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/geovana--sousa/)
+## Sobre Mim [<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/geovana--sousa/)
 
 Sou estudante de Engenharia de Produção na Escola Superior de Engenharia e Gestão (ESEG) em São Paulo, onde trabalho em um projeto de pesquisa no Núcleo de Inteligência Artificial e Robótica, desenvolvendo uma aplicação de IA voltada para a área educacional. Além da parte acadêmica, também procuro utilizar essa fase profissional para desenvolver minhas capacidades de liderança e proatividade. Por esse motivo, entrei para a associação atlética da faculdade e lá me tornei uma dos membros do nosso quadro de diretoria, assumindo a responsabilidade pelo departamento financeiro.
 
