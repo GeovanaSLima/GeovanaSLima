@@ -1,6 +1,6 @@
 # Hey, eu sou a Geovana Sousa! 👋
 
-## É muito bom te ver aqui, espero que goste! 😉😉
+## É muito bom te ver por aqui, espero que goste! 😉😉
 
 <br />
 
