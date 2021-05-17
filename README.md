@@ -30,10 +30,10 @@ A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória 
 ## Aprendizado:
 Projetos e cursos desenvolvidos para aprimoramento.
 
-* **[Curso - Machine Learning by Andrew Ng](https://github.com/GeovanaSLima/Machine_Learning_Stanford)**:
+* **[Curso - *Machine Learning with Andrew Ng*](https://github.com/GeovanaSLima/Machine_Learning_Stanford)**:
 Machine Learning course offered by Stanford University on Coursera (**Recorrente**)
 
-* **[Curso - Machine Learning with Python by IBM](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM)**:
+* **[Curso - *Machine Learning with Python* by IBM](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM)**:
 Machine Learning course offered by IBM on Coursera (**Recorrente**)
 
 * **[*Bootcamp* IGTI: Analista de *Machine Learning* - Projeto Prático 1 - Fundamentos](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/IGTI_Trabalho_pr%C3%A1tico_1.ipynb)**:
