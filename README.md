@@ -25,7 +25,7 @@ Nos últimos tempos, meu foco principal é desenvolver habilidades voltadas para
 ## Projetos:
 
 * **[Análise dos dados do Airbnb - Toronto](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/An%C3%A1lise_dos_dados_Airbnb_Toronto.ipynb)**: 
-A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar *outliers* e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do *dataset* obtivemos *insights* importantes para alguém que tem a intenção de visitar a cidade. *([Curso Sigmoidal](https://sigmoidal.ai/))*
+A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar *outliers* e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do *dataset* obtivemos *insights* importantes para alguém que tem a intenção de visitar a cidade. 
 
 ## Aprendizado:
 Projetos e cursos desenvolvidos para aprimoramento.
