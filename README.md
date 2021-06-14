@@ -10,13 +10,16 @@
 
 <br />
 
-## About Me [<img align="left"  width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/geovana--sousa/)
+## About Me 
 
 I’m a Manufacturing Engineering student at School of Engineering and Management (ESEG, in Portuguese) in São Paulo, where I work on a research project at the Artificial Intelligence and Robotics Center developing an AI application focused on the educational area. Besides that, I also try to use this professional phase to develop my leadership and pro-activity capabilities.
 
 Lately, I've been focusing on developing skills based on data science and artificial intelligence. For this, I use means such as online courses, books, articles, and others. And here is my portfolio with detailed projects or courses I've worked on.
 
 I hope you enjoy my work! All feedback is great, so don't be afraid of helping 😉
+
+
+ [<img align="right" width=20% src="https://i.imgur.com/rJRdKEd.png"/>](https://www.instagram.com/geovanasslima_/) [<img align="right" width=20% src="https://i.imgur.com/ANd2pYb.png"/>](https://www.linkedin.com/in/geovana--sousa/) [<img width=20% align="right" src="https://i.imgur.com/BiyQx0g.png" />](https://www.learndata.com.br/)
 
 <br />
 
