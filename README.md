@@ -18,8 +18,9 @@ Lately, I've been focusing on developing skills based on data science and artifi
 
 I hope you enjoy my work! All feedback is great, so don't be afraid of helping 😉
 
+<br />
 
- [<img align="right" width=20% src="https://i.imgur.com/rJRdKEd.png"/>](https://www.instagram.com/geovanasslima_/) [<img align="right" width=20% src="https://i.imgur.com/ANd2pYb.png"/>](https://www.linkedin.com/in/geovana--sousa/) [<img width=20% align="right" src="https://i.imgur.com/BiyQx0g.png" />](https://www.learndata.com.br/)
+ [<img align="center" width=20% src="https://i.imgur.com/rJRdKEd.png"/>](https://www.instagram.com/geovanasslima_/) [<img align="center" width=20% src="https://i.imgur.com/ANd2pYb.png"/>](https://www.linkedin.com/in/geovana--sousa/) [<img width=20% align="center" src="https://i.imgur.com/BiyQx0g.png" />](https://www.learndata.com.br/)
 
 <br />
 
