@@ -1,6 +1,6 @@
 # Hey, it's Geovana Sousa! 👋
 
-## It's great to have you here! 😉😉
+## It's great having you here! 😉😉
 
 <br />
 
