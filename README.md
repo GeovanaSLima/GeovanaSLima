@@ -31,6 +31,8 @@ From data provided by Airbnb, I've done an exploratory analysis where I identifi
 
   [*Análise dos dados do Airbnb - Toronto* (Portuguese Version)](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/An%C3%A1lise_dos_dados_Airbnb_Toronto.ipynb): *A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar* outliers *e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do dataset obtivemos* insights *importantes para alguém que tem a intenção de visitar a cidade.* 
 
+* [*Estudo sobre o COVID-19* (Portuguese Version)](https://github.com/GeovanaSLima/CovidProject): *Análise exploratória de dados em um dataset de pesquisas e acompanhamentos da pandemia do Coronvaírus ao redor do mundo.*
+
 ## Education:
 Projects and courses developed for improvement.
 
@@ -40,7 +42,3 @@ Machine Learning course offered by Stanford University on Coursera (**Recorrente
 * **[Course - *Machine Learning with Python* by IBM](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM)**:
 Machine Learning course offered by IBM on Coursera (**Recorrente**)
 
-* **[*Bootcamp IGTI: Analista de Machine Learning - Projeto Prático 1 - Fundamentos](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/IGTI_Trabalho_pr%C3%A1tico_1.ipynb)**:
-Primeiro projeto na jornada de aprendizado das técnicas de Machine Learning*
-
-* **[*Bootcamp IGTI: Analista de Machine Learning - Desafio 1 - Fundamentos](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/IGTI_Desafio_1.ipynb)**: Primeiro desafio na jornada de aprendizado das técnicas de Machine Learning*
