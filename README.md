@@ -33,6 +33,8 @@ From data provided by Airbnb, I've done an exploratory analysis where I identifi
 
 * [*Estudo sobre o COVID-19* (Portuguese Version)](https://github.com/GeovanaSLima/CovidProject): *Análise exploratória de dados em um dataset de pesquisas e acompanhamentos da pandemia do Coronvaírus ao redor do mundo.*
 
+* [*Relatório de Vagas do Indeed com Python + Selenium* (Portuguese Version)](https://github.com/GeovanaSLima/RelatorioVagas-web-scraping): *Criação de um Relatório de vagas de trabalho no Indeed com web scraping em Python + Selenium.*
+
 ## Education:
 Projects and courses developed for improvement.
 
