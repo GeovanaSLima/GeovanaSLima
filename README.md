@@ -39,8 +39,13 @@ From data provided by Airbnb, I've done an exploratory analysis where I identifi
 Projects and courses developed for improvement.
 
 * **[Course - *Machine Learning with Andrew Ng*](https://github.com/GeovanaSLima/Machine_Learning_Stanford)**:
-Machine Learning course offered by Stanford University on Coursera (**Recorrente**)
+Machine Learning course offered by Stanford University on Coursera
 
 * **[Course - *Machine Learning with Python* by IBM](https://github.com/GeovanaSLima/Machine_Learning_with_Python_IBM)**:
-Machine Learning course offered by IBM on Coursera (**Recorrente**)
+Machine Learning course offered by IBM on Coursera
 
+* **[Course - *Machine Learning A-Z™: Hands-On Python & R In Data Science*](https://github.com/GeovanaSLima/Machine_Learning_A_Z)**:
+Mahine Learning course offered by Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Support, Ligency Team on Udemy
+
+* **[Book - *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*](https://github.com/GeovanaSLima/Hands_on_Machine_Learning)**:
+All the notebooks I used to study and practice the book's content
