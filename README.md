@@ -26,14 +26,16 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 ## Projects:
 
-* **[Airbnb Data Analysis - Toronto](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/Project_Airbnb_Data_Analysis_Toronto.ipynb)**: 
+* **[Airbnb Data Analysis - Toronto](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/Project_Airbnb_Data_Analysis_Toronto.ipynb):** 
 From data provided by Airbnb, I've done an exploratory analysis where I identified outliers and missing values. From this data I obtained a number of insights presented on the repository.  / 
 
-  [*Análise dos dados do Airbnb - Toronto* (Portuguese Version)](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/An%C3%A1lise_dos_dados_Airbnb_Toronto.ipynb): *A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar* outliers *e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do dataset obtivemos* insights *importantes para alguém que tem a intenção de visitar a cidade.* 
+* **[*Análise dos dados do Airbnb - Toronto* (Portuguese Version)](https://github.com/GeovanaSLima/GeovanaSLima/blob/main/An%C3%A1lise_dos_dados_Airbnb_Toronto.ipynb):** *A partir dos dados disponibilizados pelo Airbnb, fiz uma análise exploratória onde foi possível identificar* outliers *e uma grande quantidade de valores faltantes. Apesar de ser uma versão resumida do dataset obtivemos* insights *importantes para alguém que tem a intenção de visitar a cidade.* 
 
-* [*Estudo sobre o COVID-19* (Portuguese Version)](https://github.com/GeovanaSLima/CovidProject): *Análise exploratória de dados em um dataset de pesquisas e acompanhamentos da pandemia do Coronvaírus ao redor do mundo.*
+* **[*Estudo sobre o COVID-19* (Portuguese Version)](https://github.com/GeovanaSLima/CovidProject):** *Análise exploratória de dados em um dataset de pesquisas e acompanhamentos da pandemia do Coronvaírus ao redor do mundo.*
 
-* [*Relatório de Vagas do Indeed com Python + Selenium* (Portuguese Version)](https://github.com/GeovanaSLima/RelatorioVagas-web-scraping): *Criação de um Relatório de vagas de trabalho no Indeed com web scraping em Python + Selenium.*
+* **[*Relatório de Vagas do Indeed com Python + Selenium* (Portuguese Version)](https://github.com/GeovanaSLima/RelatorioVagas-web-scraping):** *Criação de um Relatório de vagas de trabalho no Indeed com web scraping em Python + Selenium.*
+
+* **[Recipes website with Django](https://github.com/GeovanaSLima/AluraReceitas):** Creation of a Recipe website with Django framework. The project was created as a training from an Alura Course.
 
 ## Education:
 Projects and courses developed for improvement.
