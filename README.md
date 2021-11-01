@@ -1,7 +1,7 @@
-<h1  align="center" style="border-bottom: none">Hi 👋, I'm Geovana Sousa</h1>
+<h1  align="center">Hi 👋, I'm Geovana Sousa</h1>
 <h3 align="center"><i>A passionate Data Scientist and Developer</i></h3>
 
-## About Me 
+<h3> About Me </h3>
 
 I’m a Manufacturing Engineering student at School of Engineering and Management (ESEG, in Portuguese) in São Paulo, where I work on a research project at the Artificial Intelligence and Robotics Center developing an AI application focused on the educational area. Besides that, I also try to use this professional phase to develop my leadership and pro-activity capabilities.
 
