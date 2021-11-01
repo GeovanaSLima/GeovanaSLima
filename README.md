@@ -9,7 +9,7 @@ Lately, I've been focusing on developing skills based on data science and artifi
 
 I hope you enjoy my work! All feedback is great, so don't be afraid of helping 😉
 
-- 🔭 I’m currently working as an **Applications Developer at IBM**
+- 🔭 I’m currently working as an **Applications Developer @IBM**
 
 - 🌱 I’m currently learning **Django, HTML, CSS, JavaScript, React Native, Machine Learning, Flutter**
 
