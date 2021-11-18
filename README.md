@@ -23,7 +23,7 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 - ⚡ Fun fact **As hobbies, I like to learn about Video Creation, Gaming Development, Illustrations, VFX, Animation and 3D**
 
-### Blog posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Fundamentos Básicos do Machine Learning que você Precisa Saber](https://www.learningdata.dev/post/fundamentos-basicos-do-machine-learning-que-voce-precisa-saber)
 - [[TUTORIAL] Relatório de Vagas com Web Scraping - Parte II](https://www.learningdata.dev/post/tutorial-relatorio-de-vagas-com-web-scraping-parte-2)
