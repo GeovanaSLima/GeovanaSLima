@@ -15,4 +15,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://www.learningdata.dev/blog-feed.xml"
-
