@@ -11,7 +11,7 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 - 🔭 I’m currently working as an **Business Analyst Intern @Nubank**
 
-- 🌱 I’m currently learning **Django, HTML, CSS, JavaScript, React Native, Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, Django, HTML, CSS, JavaScript, React Native**
 
 - 👨‍💻 All of my projects are available at [www.geovanasousa.com](www.geovanasousa.com)
 
