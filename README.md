@@ -21,7 +21,7 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 - 📫 How to reach me **geovanasslima@gmail.com**
 
-- ⚡ Fun fact **As hobbies, I like to learn about Video Creation, Gaming Development, Illustrations, VFX, Animation and 3D**
+- ⚡ Fun fact **As hobbies, I like to learn about Arduino, Robotics, and Design**
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
