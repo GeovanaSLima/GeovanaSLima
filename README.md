@@ -9,9 +9,9 @@ Lately, I've been focusing on developing skills based on data science and artifi
 
 I hope you enjoy my work! All feedback is great, so don't be afraid of helping 😉
 
-- 🔭 I’m currently working as an **Business Analyst Intern @Nubank**
+- 🔭 I’m currently working as an **Business Analyst @Nubank**
 
-- 🌱 I’m currently learning **Machine Learning, Django, HTML, CSS, JavaScript, React Native**
+- 🌱 I’m currently learning **Machine Learning, Scala, React Native**
 
 - 👨‍💻 All of my projects are available at [www.geovanasousa.com](www.geovanasousa.com)
 
@@ -21,7 +21,6 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 - 📫 How to reach me **geovanasslima@gmail.com**
 
-- ⚡ Fun fact **As hobbies, I like to learn about Arduino, Robotics, and Design**
 
 ### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
