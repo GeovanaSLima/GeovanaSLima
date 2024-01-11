@@ -45,8 +45,13 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping ð
 </br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovanaslima&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="geovanaslima" /></p>
+<p float="left">
+  <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovanaslima&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="geovanaslima" />
+  <img height="130" src="https://github-readme-streak-stats.herokuapp.com/?user=geovanaslima&theme=apprentice" alt="geovanaslima" />
+  <img height="130" src="https://github-readme-stats.vercel.app/api?username=geovanaslima&show_icons=true&locale=en&theme=apprentice&hide=contribs" alt="geovanaslima" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geovanaslima&show_icons=true&locale=en&theme=apprentice&hide=contribs" alt="geovanaslima" width="500px" /></p>
+
+
 <br />
 
