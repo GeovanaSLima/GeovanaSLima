@@ -13,9 +13,9 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 - 🌱 I’m currently learning **Machine Learning, Scala, React Native**
 
-- 👨‍💻 All of my projects are available at [www.geovanasousa.com](www.geovanasousa.com)
+- 👨‍💻 All of my projects are available at [www.geovanasousa.com](https://www.geovanasousa.com)
 
-- 📝 I regularly write articles on [www.learningdata.dev](www.learningdata.dev)
+- 📝 I regularly write articles on [www.learningdata.dev](https://www.learningdata.dev)
 
 - 💬 Ask me about **Python, Data Science, Django, Artificial Intelligence**
 
