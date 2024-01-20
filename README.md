@@ -46,7 +46,7 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping ð
 
 
 <p float="left">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=geovanaslima&theme=apprentice" alt="geovanaslima" /> 
+<!--   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=geovanaslima&theme=apprentice" alt="geovanaslima" />  -->
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=geovanaslima&show_icons=true&locale=en&theme=apprentice&hide=contribs" alt="geovanaslima" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=geovanaslima&show_icons=true&locale=en&layout=compact&theme=apprentice" alt="geovanaslima" />
 </p>
