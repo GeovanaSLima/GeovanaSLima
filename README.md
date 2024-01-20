@@ -1,5 +1,5 @@
 <h1  align="center">Hi 👋 I'm Geovana Sousa</h1>
-<h3 align="center"><i>A passionate Data Scientist and Developer</i></h3>
+<!-- <h3 align="center"><i>A passionate Data Scientist and Developer</i></h3> -->
 
 <h3> About Me </h3>
 
