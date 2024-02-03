@@ -5,7 +5,7 @@
 
 I’m an Industrial Engineer Graduate from School of Engineering and Management (ESEG, in Portuguese) in São Paulo, where I worked on different research projects at the Artificial Intelligence and Robotics Center developing an AI applications focused on the educational area and Software Development projects on Idustry 4.0 and Healthcare.
 
-Lately, I've been focusing on developing skills based on data science and artificial intelligence. For this, I use means such as online courses, books, articles, and others. And here is my portfolio with detailed projects or courses I've worked on.
+Lately, I've been focusing on developing skills based on data science and artificial intelligence. For this, I use resources such as online courses, books, articles, and others. And here is my portfolio with detailed projects or courses I've worked on.
 
 I hope you enjoy my work! All feedback is great, so don't be afraid of helping 😉
 
