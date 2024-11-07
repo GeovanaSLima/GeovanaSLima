@@ -9,7 +9,7 @@ Lately, I've been focusing on developing skills based on data science and artifi
 
 I hope you enjoy my work! All feedback is great, so don't be afraid of helping 😉
 
-- 🔭 I’m currently working as an **Business Analyst @Nubank**
+- 🔭 I’m currently working as an **Analytics Engineer @Nubank**
 
 - 🌱 I’m currently learning **Machine Learning, Scala, React Native**
 
