@@ -15,23 +15,9 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 - 👨‍💻 All of my projects are available at [www.geovanasousa.com](https://www.geovanasousa.com)
 
-- 📝 I regularly write articles on [www.learningdata.dev](https://www.learningdata.dev)
-
 - 💬 Ask me about **Python, Data Science, Django, Artificial Intelligence**
 
 - 📫 How to reach me **geovanasslima@gmail.com**
-
-</br>
-</br>
-
-### Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Entendendo os Modelos de Regressão](https://www.learningdata.dev/post/entendendo-os-modelos-de-regressao)
-- [Fundamentos Básicos do Machine Learning que você Precisa Saber](https://www.learningdata.dev/post/fundamentos-basicos-do-machine-learning-que-voce-precisa-saber)
-- [[TUTORIAL] Relatório de Vagas com Web Scraping - Parte II](https://www.learningdata.dev/post/tutorial-relatorio-de-vagas-com-web-scraping-parte-2)
-- [[TUTORIAL] Relatório de Vagas com Web Scraping - Parte I](https://www.learningdata.dev/post/tutorial-relatorio-de-vagas-parte-1)
-- [Estudo Sobre o COVID-19](https://www.learningdata.dev/post/estudo-sobre-o-covid19)
-<!-- BLOG-POST-LIST:END -->
 
 </br>
 </br>
