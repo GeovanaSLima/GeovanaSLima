@@ -9,13 +9,7 @@ Lately, I've been focusing on developing skills based on data science and artifi
 
 I hope you enjoy my work! All feedback is great, so don't be afraid of helping 😉
 
-- 🔭 I’m currently working as an **Analytics Engineer @Nubank**
-
-- 🌱 I’m currently learning **Machine Learning, Scala, React Native**
-
-- 👨‍💻 All of my projects are available at [www.geovanasousa.com](https://www.geovanasousa.com)
-
-- 💬 Ask me about **Python, Data Science, Django, Artificial Intelligence**
+- 🔭 I’m currently working as an **Senior Analytics Engineer @Nubank**
 
 - 📫 How to reach me **geovanasslima@gmail.com**
 
@@ -26,7 +20,6 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/geovana--sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geovana--sousa" height="30" width="40" /></a>
-<a href="https://instagram.com/geovanasslima_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="geovanasslima_" height="30" width="40" /></a>
 
 </br>
 </br>
@@ -34,7 +27,6 @@ I hope you enjoy my work! All feedback is great, so don't be afraid of helping �
 
 <p float="left">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=geovanaslima&theme=apprentice" alt="geovanaslima" /> 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=geovanaslima&show_icons=true&locale=en&theme=apprentice&hide=contribs" alt="geovanaslima" />
 </p>
 
 
