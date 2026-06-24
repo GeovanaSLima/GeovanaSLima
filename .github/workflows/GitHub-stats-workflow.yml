@@ -18,18 +18,9 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: >-
-            username=GeovanaSLima
-            &show_icons=true
-            &include_all_commits=true
-            &count_private=true
-            &hide_rank=false
-            &bg_color=262626
-            &title_color=ffffff
-            &text_color=bcbcbc
-            &icon_color=ffffaf
+          options: "username=GeovanaSLima&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&bg_color=262626&title_color=ffffff&text_color=bcbcbc&icon_color=ffffaf"
           path: profile/stats.svg
-          token: ${{ secrets.GRS_PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit e push do SVG
         run: |
